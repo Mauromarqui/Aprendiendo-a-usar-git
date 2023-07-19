@@ -5,8 +5,25 @@ body {
 }
 #container{
     text-align: left;
-    padding: 20px 100px;
     margin-left: 20%;
     margin-right: 20%;
     border: 1px solid black;
+    border-radius: 5px;
+}
+#container h1, p{
+    padding: 0px 100px 20px 100px;
+}
+#cabecera {
+    color: gray;
+    background: aqua;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: large;
+    box-shadow: -2px -1px 41px 13px rgba(0,0,0,0.46);
+}
+#relleno {
+    font-weight: normal;
+    font-size: small;
+    padding-left: 30px;
 }
