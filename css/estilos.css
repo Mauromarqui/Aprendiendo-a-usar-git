@@ -27,3 +27,9 @@ body {
     font-size: small;
     padding-left: 30px;
 }
+#footer {
+    background-color: #799;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
